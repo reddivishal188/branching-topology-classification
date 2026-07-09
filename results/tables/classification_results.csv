@@ -1,0 +1,4 @@
+classifier,balanced_accuracy_mean,balanced_accuracy_std,roc_auc_mean,roc_auc_std
+Logistic Regression,1.0,0.0,1.0,0.0
+Random Forest,1.0,0.0,1.0,0.0
+SVM (RBF),1.0,0.0,1.0,0.0

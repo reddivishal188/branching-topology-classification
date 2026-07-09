@@ -1,0 +1,4 @@
+prediction,predicted_order,actual_order,supported,retinal_mean,crack_mean,dla_mean,retinal_std,crack_std,dla_std
+Assortativity: Transport > Fracture > Aggregation,retinal > crack > dla,crack > dla > retinal,False,0.0007298847529039617,0.17253343815912858,0.0708456330449307,0.1328101988057767,0.21391439324451686,0.14582188097243778
+Cyclomatic/edge: Fracture > Transport > Aggregation,crack > retinal > dla,dla > crack > retinal,False,0.25610227215624753,0.29899980673234955,0.326751426519458,0.06961710069973895,0.09106571994899502,0.034631249301530345
+Degree-3/4 ratio: Transport > Aggregation > Fracture,retinal > dla > crack,crack > retinal > dla,False,23972608.820415992,89853693.7529681,2.2341005281295816,204822006.9903197,623507189.6771334,1.5396513048893994

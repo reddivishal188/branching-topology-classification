@@ -1,0 +1,18 @@
+# Topological Signatures of Network Formation Mechanisms
+# Core dependencies
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.2
+networkx>=3.0
+opencv-python>=4.5
+matplotlib>=3.5
+pandas>=1.5
+seaborn>=0.12
+scikit-image>=0.20
+
+# Topological Data Analysis
+ripser>=0.6
+persim>=0.3
+
+# Development
+jupyterlab>=3.0
